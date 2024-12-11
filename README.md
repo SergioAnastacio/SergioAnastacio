@@ -1,5 +1,5 @@
 ### Hi there, I'm [SergioAnastacio](https://www.sergioanastacio.icu) 👋
-![Banner](https://via.placeholder.com/1200x400.png?text="Sergio+Anastacio+-+Desarrollador+Full+Stack")
+![Banner](https://pbs.twimg.com/media/Gegv05xXkAAzCYx?format=jpg&name=medium)
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBunZf3awu55QLBXq-qzFuw)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/AnguloAnastacio)
@@ -102,8 +102,11 @@
 ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SergioAnastacio&repo=landing-page&theme=highcontrast" />
 </a>
-<a href="https://github.com/SergioAnastacio/SergioAnastacio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SergioAnastacio&repo=SergioAnastacio&theme=highcontrast" />
+<a href="https://github.com/SergioAnastacio/api-anasty">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SergioAnastacio&repo=api-anasty&theme=highcontrast" />
+</a>
+<a href="https://github.com/SergioAnastacio/isc-anasty">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SergioAnastacio&repo=isc-anasty&theme=highcontrast" />
 </a>
 
 <br />
